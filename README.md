@@ -16,3 +16,6 @@
 
 # TODO
 招集參與者，確立初始原型
+
+## 討論
+巴哈串：https://forum.gamer.com.tw/C.php?bsn=60602&snA=2035
